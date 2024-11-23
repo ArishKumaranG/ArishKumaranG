@@ -5,7 +5,7 @@ Project Overview
 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a> href="[https://google.com]https://github.com/ArishKumaranG/SIEM/blob/main">SIEM</a>   |
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/ArishKumaranG/SIEM/blob/main">SIEM /a>   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
