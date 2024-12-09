@@ -6,7 +6,7 @@ Project Overview
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="https://google.com]https://github.com/ArishKumaranG/SIEM/blob/main"> SIEM </a>   |
-| Arduino Wifi Pwd Extractor                | Embedded Systems, Arduino                                      |   Arduino Leonardo, Arduino IDE              |  <a href="https://google.com]https://github.com/ArishKumaranG/SIEM/blob/main"> SIEM </a>               |
+| Arduino Wifi Pwd Extractor                | Embedded Systems, Arduino                                      |   Arduino Leonardo, Arduino IDE              |  <a href="[https://google.com]https://github.com/ArishKumaranG/SIEM/blob/main](https://github.com/ArishKumaranG/Arduino-WiFi-Extractor)"> Arduino </a>               |
 |                 |                                       |                 |                 |
 
 
